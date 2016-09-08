@@ -47,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="food.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="food.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/food.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -79,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nonblocking.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nonblocking.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nonblocking.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="572">
@@ -105,11 +105,11 @@
       <list>
         <option value="$PROJECT_DIR$/lesson1.js" />
         <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/food.txt" />
         <option value="$PROJECT_DIR$/drinks.txt" />
         <option value="$PROJECT_DIR$/blocking.js" />
         <option value="$PROJECT_DIR$/.idea/nonblocking.js" />
         <option value="$PROJECT_DIR$/nonblocking.js" />
+        <option value="$PROJECT_DIR$/food.txt" />
       </list>
     </option>
   </component>
@@ -230,12 +230,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473353244435</updated>
-      <workItem from="1473353245814" duration="2798000" />
+      <workItem from="1473353245814" duration="3405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2798000" />
+    <option name="totallyTimeSpent" value="3405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -295,14 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/food.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/drinks.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -338,6 +330,14 @@
           <folding>
             <element signature="e#0#40#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
